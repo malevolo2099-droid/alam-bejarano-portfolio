@@ -1,0 +1,80 @@
+---
+import "@fontsource/dm-sans/400.css";
+import "@fontsource/dm-sans/500.css";
+import "@fontsource/dm-sans/600.css";
+import "@fontsource/dm-sans/700.css";
+import "@fontsource/dm-serif-display/400.css";
+import "@fontsource/dm-serif-display/400-italic.css";
+import "../styles/global.css";
+
+const base = import.meta.env.BASE_URL;
+
+const {
+  title = "Alam Bejarano — Ilustrador y Director Creativo",
+  description = "Ilustrador y Director Creativo · Especialista en identidad visual y narrativa gráfica.",
+  image = `${base}images/work/illustration/diego-raton-cover.webp`,
+} = Astro.props;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f1efe9" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    {Astro.site && <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />}
+    {Astro.site && <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />}
+    {Astro.site && <meta property="og:image" content={new URL(image, Astro.site)} />}
+    <title>{title}</title>
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Saltar al contenido</a>
+
+    <header class="site-header">
+      <a class="wordmark" href={base} aria-label="Alam Bejarano, inicio">ALAM<br />BEJARANO</a>
+
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+        <span class="menu-toggle__label">Menú</span>
+        <span class="menu-toggle__icon" aria-hidden="true"><i></i><i></i></span>
+      </button>
+
+      <nav class="primary-nav" id="primary-nav" aria-label="Navegación principal">
+        <a href={`${base}#trabajo`}>Trabajo</a>
+        <a href={`${base}#trayectoria`}>Trayectoria</a>
+        <a href={`${base}#capacidades`}>Capacidades</a>
+        <a href={`${base}CV_Alam_Bejarano_2026.pdf`} target="_blank" rel="noreferrer">
+          CV <span aria-hidden="true">↗</span>
+        </a>
+        <a href={`${base}#contacto`}>Contacto</a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-top">
+        <p class="eyebrow">Contacto · Morelia, Michoacán</p>
+        <a class="footer-title" href="mailto:identidadalamano@gmail.com">Hablemos<span>↗</span></a>
+      </div>
+
+      <div class="footer-bottom">
+        <a href="mailto:identidadalamano@gmail.com">identidadalamano@gmail.com</a>
+        <a href="tel:+524431196109">+52 443 119 6109</a>
+        <a href={`${base}CV_Alam_Bejarano_2026.pdf`} target="_blank" rel="noreferrer">Descargar CV ↗</a>
+        <span>© {new Date().getFullYear()} Alam Bejarano</span>
+      </div>
+    </footer>
+
+    <script>
+      import "../scripts/site.js";
+    </script>
+  </body>
+</html>

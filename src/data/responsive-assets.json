@@ -1,0 +1,332 @@
+{
+  "/images/work/archive/clients-one.webp": {
+    "width": 960,
+    "height": 560,
+    "srcset": "/images/work/archive/clients-one-w480.webp 480w, /images/work/archive/clients-one.webp 960w"
+  },
+  "/images/work/archive/clients-two.webp": {
+    "width": 960,
+    "height": 560,
+    "srcset": "/images/work/archive/clients-two-w480.webp 480w, /images/work/archive/clients-two.webp 960w"
+  },
+  "/images/work/archive/geek-sketch.webp": {
+    "width": 2048,
+    "height": 1536,
+    "srcset": "/images/work/archive/geek-sketch-w480.webp 480w, /images/work/archive/geek-sketch-w960.webp 960w, /images/work/archive/geek-sketch-w1600.webp 1600w, /images/work/archive/geek-sketch.webp 2048w"
+  },
+  "/images/work/archive/gym.webp": {
+    "width": 700,
+    "height": 458,
+    "srcset": "/images/work/archive/gym-w480.webp 480w, /images/work/archive/gym.webp 700w"
+  },
+  "/images/work/archive/page-viewer.webp": {
+    "width": 2400,
+    "height": 1696,
+    "srcset": "/images/work/archive/page-viewer-w480.webp 480w, /images/work/archive/page-viewer-w960.webp 960w, /images/work/archive/page-viewer-w1600.webp 1600w, /images/work/archive/page-viewer.webp 2400w"
+  },
+  "/images/work/archive/robot-about.webp": {
+    "width": 2058,
+    "height": 1220,
+    "srcset": "/images/work/archive/robot-about-w480.webp 480w, /images/work/archive/robot-about-w960.webp 960w, /images/work/archive/robot-about-w1600.webp 1600w, /images/work/archive/robot-about.webp 2058w"
+  },
+  "/images/work/archive/transportador-movieclip.webp": {
+    "width": 728,
+    "height": 423,
+    "srcset": "/images/work/archive/transportador-movieclip-w480.webp 480w, /images/work/archive/transportador-movieclip.webp 728w"
+  },
+  "/images/work/auto-sweep/packaging.webp": {
+    "width": 2400,
+    "height": 1723,
+    "srcset": "/images/work/auto-sweep/packaging-w480.webp 480w, /images/work/auto-sweep/packaging-w960.webp 960w, /images/work/auto-sweep/packaging-w1600.webp 1600w, /images/work/auto-sweep/packaging.webp 2400w"
+  },
+  "/images/work/auto-sweep/product-front.webp": {
+    "width": 1006,
+    "height": 1261,
+    "srcset": "/images/work/auto-sweep/product-front-w480.webp 480w, /images/work/auto-sweep/product-front-w960.webp 960w, /images/work/auto-sweep/product-front.webp 1006w"
+  },
+  "/images/work/branding/an-yu/page-01.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-01.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-05.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-05.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-06.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-06.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-08.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-08.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-10.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-10.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-16.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-16.webp 456w"
+  },
+  "/images/work/branding/an-yu/page-18.webp": {
+    "width": 456,
+    "height": 352,
+    "srcset": "/images/work/branding/an-yu/page-18.webp 456w"
+  },
+  "/images/work/branding/ay-inmobiliaria/page-01.webp": {
+    "width": 911,
+    "height": 704,
+    "srcset": "/images/work/branding/ay-inmobiliaria/page-01-w480.webp 480w, /images/work/branding/ay-inmobiliaria/page-01.webp 911w"
+  },
+  "/images/work/branding/inmogaia/page-01.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-01-w480.webp 480w, /images/work/branding/inmogaia/page-01.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-02.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-02-w480.webp 480w, /images/work/branding/inmogaia/page-02.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-04.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-04-w480.webp 480w, /images/work/branding/inmogaia/page-04.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-07.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-07-w480.webp 480w, /images/work/branding/inmogaia/page-07.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-12.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-12-w480.webp 480w, /images/work/branding/inmogaia/page-12.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-20.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-20-w480.webp 480w, /images/work/branding/inmogaia/page-20.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-30.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-30-w480.webp 480w, /images/work/branding/inmogaia/page-30.webp 704w"
+  },
+  "/images/work/branding/inmogaia/page-40.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/inmogaia/page-40-w480.webp 480w, /images/work/branding/inmogaia/page-40.webp 704w"
+  },
+  "/images/work/branding/maracumbe/page-01.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/maracumbe/page-01-w480.webp 480w, /images/work/branding/maracumbe/page-01.webp 704w"
+  },
+  "/images/work/branding/maracumbe/page-03.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/maracumbe/page-03-w480.webp 480w, /images/work/branding/maracumbe/page-03.webp 704w"
+  },
+  "/images/work/branding/maracumbe/page-05.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/maracumbe/page-05-w480.webp 480w, /images/work/branding/maracumbe/page-05.webp 704w"
+  },
+  "/images/work/branding/roma52/page-01.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-01-w480.webp 480w, /images/work/branding/roma52/page-01.webp 704w"
+  },
+  "/images/work/branding/roma52/page-03.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-03-w480.webp 480w, /images/work/branding/roma52/page-03.webp 704w"
+  },
+  "/images/work/branding/roma52/page-04.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-04-w480.webp 480w, /images/work/branding/roma52/page-04.webp 704w"
+  },
+  "/images/work/branding/roma52/page-08.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-08-w480.webp 480w, /images/work/branding/roma52/page-08.webp 704w"
+  },
+  "/images/work/branding/roma52/page-15.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-15-w480.webp 480w, /images/work/branding/roma52/page-15.webp 704w"
+  },
+  "/images/work/branding/roma52/page-24.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-24-w480.webp 480w, /images/work/branding/roma52/page-24.webp 704w"
+  },
+  "/images/work/branding/roma52/page-32.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-32-w480.webp 480w, /images/work/branding/roma52/page-32.webp 704w"
+  },
+  "/images/work/branding/roma52/page-39.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/roma52/page-39-w480.webp 480w, /images/work/branding/roma52/page-39.webp 704w"
+  },
+  "/images/work/branding/sweet-bites.webp": {
+    "width": 792,
+    "height": 1224,
+    "srcset": "/images/work/branding/sweet-bites-w480.webp 480w, /images/work/branding/sweet-bites.webp 792w"
+  },
+  "/images/work/branding/universidad-politica/page-01.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/universidad-politica/page-01-w480.webp 480w, /images/work/branding/universidad-politica/page-01.webp 704w"
+  },
+  "/images/work/branding/universidad-politica/page-04.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/universidad-politica/page-04-w480.webp 480w, /images/work/branding/universidad-politica/page-04.webp 704w"
+  },
+  "/images/work/branding/universidad-politica/page-07.webp": {
+    "width": 704,
+    "height": 911,
+    "srcset": "/images/work/branding/universidad-politica/page-07-w480.webp 480w, /images/work/branding/universidad-politica/page-07.webp 704w"
+  },
+  "/images/work/illustration/diego-raton-character.webp": {
+    "width": 1224,
+    "height": 2221,
+    "srcset": "/images/work/illustration/diego-raton-character-w480.webp 480w, /images/work/illustration/diego-raton-character-w960.webp 960w, /images/work/illustration/diego-raton-character.webp 1224w"
+  },
+  "/images/work/illustration/diego-raton-cover.webp": {
+    "width": 2048,
+    "height": 1536,
+    "srcset": "/images/work/illustration/diego-raton-cover-w480.webp 480w, /images/work/illustration/diego-raton-cover-w960.webp 960w, /images/work/illustration/diego-raton-cover-w1600.webp 1600w, /images/work/illustration/diego-raton-cover.webp 2048w"
+  },
+  "/images/work/illustration/diego-raton-detail.webp": {
+    "width": 1224,
+    "height": 792,
+    "srcset": "/images/work/illustration/diego-raton-detail-w480.webp 480w, /images/work/illustration/diego-raton-detail-w960.webp 960w, /images/work/illustration/diego-raton-detail.webp 1224w"
+  },
+  "/images/work/illustration/diego-raton-turnaround.webp": {
+    "width": 1800,
+    "height": 649,
+    "srcset": "/images/work/illustration/diego-raton-turnaround-w480.webp 480w, /images/work/illustration/diego-raton-turnaround-w960.webp 960w, /images/work/illustration/diego-raton-turnaround-w1600.webp 1600w, /images/work/illustration/diego-raton-turnaround.webp 1800w"
+  },
+  "/images/work/nahual/01-inicio.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/01-inicio-w480.webp 480w, /images/work/nahual/01-inicio-w960.webp 960w, /images/work/nahual/01-inicio-w1600.webp 1600w, /images/work/nahual/01-inicio.webp 1920w"
+  },
+  "/images/work/nahual/02-sobre-mi.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/02-sobre-mi-w480.webp 480w, /images/work/nahual/02-sobre-mi-w960.webp 960w, /images/work/nahual/02-sobre-mi-w1600.webp 1600w, /images/work/nahual/02-sobre-mi.webp 1920w"
+  },
+  "/images/work/nahual/03-portafolio.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/03-portafolio-w480.webp 480w, /images/work/nahual/03-portafolio-w960.webp 960w, /images/work/nahual/03-portafolio-w1600.webp 1600w, /images/work/nahual/03-portafolio.webp 1920w"
+  },
+  "/images/work/nahual/04-confianza.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/04-confianza-w480.webp 480w, /images/work/nahual/04-confianza-w960.webp 960w, /images/work/nahual/04-confianza-w1600.webp 1600w, /images/work/nahual/04-confianza.webp 1920w"
+  },
+  "/images/work/nahual/05-testimonios.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/05-testimonios-w480.webp 480w, /images/work/nahual/05-testimonios-w960.webp 960w, /images/work/nahual/05-testimonios-w1600.webp 1600w, /images/work/nahual/05-testimonios.webp 1920w"
+  },
+  "/images/work/nahual/06-cuidados.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/06-cuidados-w480.webp 480w, /images/work/nahual/06-cuidados-w960.webp 960w, /images/work/nahual/06-cuidados-w1600.webp 1600w, /images/work/nahual/06-cuidados.webp 1920w"
+  },
+  "/images/work/nahual/07-contacto.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/07-contacto-w480.webp 480w, /images/work/nahual/07-contacto-w960.webp 960w, /images/work/nahual/07-contacto-w1600.webp 1600w, /images/work/nahual/07-contacto.webp 1920w"
+  },
+  "/images/work/nahual/08-cursos.webp": {
+    "width": 1920,
+    "height": 1080,
+    "srcset": "/images/work/nahual/08-cursos-w480.webp 480w, /images/work/nahual/08-cursos-w960.webp 960w, /images/work/nahual/08-cursos-w1600.webp 1600w, /images/work/nahual/08-cursos.webp 1920w"
+  },
+  "/images/work/patzcuaro/photo-02.webp": {
+    "width": 1280,
+    "height": 720,
+    "srcset": "/images/work/patzcuaro/photo-02-w480.webp 480w, /images/work/patzcuaro/photo-02-w960.webp 960w, /images/work/patzcuaro/photo-02.webp 1280w"
+  },
+  "/images/work/patzcuaro/photo-03.webp": {
+    "width": 1280,
+    "height": 720,
+    "srcset": "/images/work/patzcuaro/photo-03-w480.webp 480w, /images/work/patzcuaro/photo-03-w960.webp 960w, /images/work/patzcuaro/photo-03.webp 1280w"
+  },
+  "/images/work/patzcuaro/photo-04.webp": {
+    "width": 1280,
+    "height": 720,
+    "srcset": "/images/work/patzcuaro/photo-04-w480.webp 480w, /images/work/patzcuaro/photo-04-w960.webp 960w, /images/work/patzcuaro/photo-04.webp 1280w"
+  },
+  "/images/work/patzcuaro/photo-car.webp": {
+    "width": 1280,
+    "height": 720,
+    "srcset": "/images/work/patzcuaro/photo-car-w480.webp 480w, /images/work/patzcuaro/photo-car-w960.webp 960w, /images/work/patzcuaro/photo-car.webp 1280w"
+  },
+  "/images/work/patzcuaro/splash.webp": {
+    "width": 2048,
+    "height": 1536,
+    "srcset": "/images/work/patzcuaro/splash-w480.webp 480w, /images/work/patzcuaro/splash-w960.webp 960w, /images/work/patzcuaro/splash-w1600.webp 1600w, /images/work/patzcuaro/splash.webp 2048w"
+  },
+  "/images/work/patzcuaro/tablet-01.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-01-w480.webp 480w, /images/work/patzcuaro/tablet-01-w960.webp 960w, /images/work/patzcuaro/tablet-01-w1600.webp 1600w, /images/work/patzcuaro/tablet-01.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-02.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-02-w480.webp 480w, /images/work/patzcuaro/tablet-02-w960.webp 960w, /images/work/patzcuaro/tablet-02-w1600.webp 1600w, /images/work/patzcuaro/tablet-02.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-03.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-03-w480.webp 480w, /images/work/patzcuaro/tablet-03-w960.webp 960w, /images/work/patzcuaro/tablet-03-w1600.webp 1600w, /images/work/patzcuaro/tablet-03.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-04.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-04-w480.webp 480w, /images/work/patzcuaro/tablet-04-w960.webp 960w, /images/work/patzcuaro/tablet-04-w1600.webp 1600w, /images/work/patzcuaro/tablet-04.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-05.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-05-w480.webp 480w, /images/work/patzcuaro/tablet-05-w960.webp 960w, /images/work/patzcuaro/tablet-05-w1600.webp 1600w, /images/work/patzcuaro/tablet-05.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-06.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-06-w480.webp 480w, /images/work/patzcuaro/tablet-06-w960.webp 960w, /images/work/patzcuaro/tablet-06-w1600.webp 1600w, /images/work/patzcuaro/tablet-06.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-07.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-07-w480.webp 480w, /images/work/patzcuaro/tablet-07-w960.webp 960w, /images/work/patzcuaro/tablet-07-w1600.webp 1600w, /images/work/patzcuaro/tablet-07.webp 2400w"
+  },
+  "/images/work/patzcuaro/tablet-08.webp": {
+    "width": 2400,
+    "height": 1800,
+    "srcset": "/images/work/patzcuaro/tablet-08-w480.webp 480w, /images/work/patzcuaro/tablet-08-w960.webp 960w, /images/work/patzcuaro/tablet-08-w1600.webp 1600w, /images/work/patzcuaro/tablet-08.webp 2400w"
+  },
+  "/images/profile/alam-portrait.webp": {
+    "width": 1800,
+    "height": 2700,
+    "srcset": "/images/profile/alam-portrait-w480.webp 480w, /images/profile/alam-portrait-w960.webp 960w, /images/profile/alam-portrait-w1600.webp 1600w, /images/profile/alam-portrait.webp 1800w"
+  }
+}

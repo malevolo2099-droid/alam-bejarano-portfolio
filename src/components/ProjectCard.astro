@@ -1,0 +1,47 @@
+---
+import responsiveAssets from "../data/responsive-assets.json";
+
+const base = import.meta.env.BASE_URL;
+const withBase = (url) => {
+  if (!url?.startsWith("/")) return url ?? "";
+  return `${base}${url.replace(/^\/+/, "")}`;
+};
+const withBaseSrcset = (srcset) =>
+  srcset
+    ?.split(",")
+    .map((candidate) => {
+      const [url, ...descriptor] = candidate.trim().split(/\s+/);
+      return `${withBase(url)} ${descriptor.join(" ")}`;
+    })
+    .join(", ");
+
+const { project, number, size = "regular" } = Astro.props;
+const image = responsiveAssets[project.cover];
+const imageSrcset = withBaseSrcset(image?.srcset);
+---
+<a
+  class:list={["project-card", `project-card--${size}`, { "project-card--desktop-capture": project.wideGallery }]}
+  href={withBase(`/trabajo/${project.slug}/`)}
+>
+  <span class="project-card__image-wrap">
+    <img
+      src={withBase(project.cover)}
+      srcset={imageSrcset}
+      sizes="(max-width: 640px) 92vw, (max-width: 900px) 70vw, 58vw"
+      alt=""
+      loading="lazy"
+      decoding="async"
+      width={image?.width}
+      height={image?.height}
+    />
+    <span class="project-card__index">{number}</span>
+    <span class="project-card__arrow" aria-hidden="true">↗</span>
+  </span>
+  <span class="project-card__meta">
+    <span>
+      <span class="project-card__title">{project.name}</span>
+      <span class="project-card__category">{project.category}</span>
+    </span>
+    <span class="project-card__read">Ver proyecto</span>
+  </span>
+</a>
